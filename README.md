@@ -1,3 +1,3 @@
-# horiseon-social-solution
+# Module 1 Challenge: Horiseon social solution
 
-Module 1 Challenge
+<b>Deployed website:<b> https://antoninast.github.io/module-1-challenge/
